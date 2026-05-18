@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cursed-champagne/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Cursed Champagne](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cursed-champagne/) |
+| **Get License** | [Request Licensing for Cursed Champagne](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cursed-champagne/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `32089741ff731919694cd1c8a7ecc1931f09a659dfef06b3d77228e6c1d94c2a` |
 | **Timestamp** | May 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
