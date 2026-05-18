@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cursed-champagne/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Cursed Champagne](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cursed-champagne/) |
+| **Get License** | [Get License For Cursed Champagne](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cursed-champagne/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan de vich tera vakhra nasha ni
+> Tainu takda main hunda always fida ni
+> Kaali raat kardi ae slowly glow
+> Tere husn da jaadu getting the flow
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
